@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	// arithmetic operators (pg 40 ->)
+	cout << "Enter an int: ";
+	int i1;
+	cin >> i1;
+	cout << "Enter another int: ";
+	int i2;
+	cin >>"i2";
+	
+	int ans = i1 + i2;
+
+	return 0;
+}
